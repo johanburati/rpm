@@ -1,0 +1,15 @@
+=head1 NAME
+
+johanburati's rpm repository
+
+=head1 DESCRIPTION
+
+A bunch of RPM specs.
+
+=head1 COPYRIGHT
+
+Copyright 2010 Johan Burati (johan.burati@gmail.com)
+
+Code is licensed under GNU GPL license.
+
+=cut
